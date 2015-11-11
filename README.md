@@ -40,7 +40,7 @@ students = ["Harry Potter", "Ron Weasley", "Hermione Granger", "Draco Malfoy"]
 
 ## Why Use Arrays
 
-Arrays store information in list form. It's hard to imagine a program you will write in which you *won't* be dealing with collections of data. Whether you're making a command line game or writing a large-scale web application with many users, data is the name of the game. You may need to list the players of your game and their scores, you may need to list the users of your application. Your might have an application that connects doctors and their patients and therefore lists the patients of an individual doctor. This list goes on (pun intended). 
+Arrays store information in list form. It's hard to imagine a program you will write in which you *won't* be dealing with collections of data. Whether you're making a command line game or writing a large-scale web application with many users, data is the name of the game. You may need to list the players of your game and their scores, you may need to list the users of your application. You might have an application that connects doctors and their patients and therefore lists the patients of an individual doctor. This list goes on (pun intended). 
 
 Arrays allow us to store a collection of information in one organized place. Arrays can be named, i.e. set equal to a variable, and we can access data from an array, add data to an array or change the data that is already stored in an array. 
 
