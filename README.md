@@ -44,3 +44,5 @@ Arrays store information in list form. It's hard to imagine a program you will w
 
 Arrays allow us to store a collection of information in one organized place. Arrays can be named, i.e. set equal to a variable, and we can access data from an array, add data to an array or change the data that is already stored in an array. 
 
+
+<a href='https://learn.co/lessons/array-introduction' data-visibility='hidden'>View this lesson on Learn.co</a>
