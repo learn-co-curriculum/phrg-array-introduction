@@ -44,5 +44,8 @@ Arrays store information in list form. It's hard to imagine a program you will w
 
 Arrays allow us to store a collection of information in one organized place. Arrays can be named, i.e. set equal to a variable, and we can access data from an array, add data to an array or change the data that is already stored in an array. 
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-array-introduction/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-array-introduction/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Array Introduction</p>
